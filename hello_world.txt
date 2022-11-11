@@ -1,1 +1,10 @@
-Playing with git wow.
+This is a log of what I've worked on, so that I can commit daily, even when I'm not working on original code:
+
+November 9 - TOP: HTML foundations
+fCC - Basic CSS - Create Markers
+
+November 10 - TOP: HTML Recipes project
+fCC - Basic CSS - Finished Markers
+CS50 - Watched part of SQL lecture 
+
+November 11 - fCC: HTML Forms Practice
