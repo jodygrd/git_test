@@ -18,3 +18,7 @@ November 12 - fcc: Complete HTML Registration Form
     CS50 - PS 7 Movies - SQL Practice
 
 November 13 - TOP - CSS Practice 
+
+November 14 - CS50 - HTML CSS Lecture 
+
+November 15 - CS50 - Flask Lecture
