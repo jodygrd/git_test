@@ -25,6 +25,8 @@ November 15 - CS50 - Flask Lecture
 
 November 16 - TOP - CSS - Intro to Flexbox 
 
-November 17 - TOP - Flexbox 
+November 17 - TOP - Flexbox Exercises 
     TOP - Complete landing page project
+
+November 18 - GIT Practice with Andrew 
 
