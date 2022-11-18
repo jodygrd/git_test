@@ -22,3 +22,9 @@ November 13 - TOP - CSS Practice
 November 14 - CS50 - HTML CSS Lecture 
 
 November 15 - CS50 - Flask Lecture
+
+November 16 - TOP - CSS - Intro to Flexbox 
+
+November 17 - TOP - Flexbox 
+    TOP - Complete landing page project
+
